@@ -107,7 +107,7 @@ function generate3WComponent(config,data,geom){
         .attr('text-anchor', 'middle')
         .attr('x', $('#hdx-3W-what').width()/2)
         .attr('y', 400)
-        .text('Sector');
+        .text('Cluster');
 
     function zoomToGeom(geom){
         var bounds = d3.geo.bounds(geom);
