@@ -69,21 +69,35 @@ function generate3WComponent(config,data,geom){
             .center([0,0])
             .zoom(0)    
             .geojson(geom)
-            .colors(['#CCCCCC', config.color])
-            .colorDomain([0, 1])
+            .colors(['#DDDDDD','#A7C1D3','#71A5CA','#3B88C0', '#056CB6'])
+            .colorDomain([0,4])
             .colorAccessor(function (d) {
-                if(d>0){
-                    return 1;
-                } else {
-                    return 0;
-                }
-            })           
+                var c =0
+                if(d>490){
+                    c=4;
+                } else if (d>250) {
+                    c=3;
+                } else if (d>150) {
+                    c=2;
+                } else if (d>0) {
+                    c=1;
+                };
+                return c
+                
+            })                  
             .featureKeyAccessor(function(feature){
                 return feature.properties[config.joinAttribute];
             }).popup(function(d){
                 return lookup[d.key];
             })
-            .renderPopup(true);
+            .renderPopup(true)
+             .featureOptions({
+                'fillColor': 'gray',
+                'color': 'gray',
+                'opacity':0.8,
+                'fillOpacity': 0.1,
+                'weight': 1
+            });
 
     dc.renderAll();
     
