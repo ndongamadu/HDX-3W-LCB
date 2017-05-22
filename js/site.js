@@ -105,14 +105,14 @@ function generate3WComponent(config,data,geom){
 
     zoomToGeom(geom);
     
-    /*var g = d3.selectAll('#hdx-3W-who').select('svg').append('g');*/
-   /* 
+  /*  var g = d3.selectAll('#hdx-3W-who').select('svg').append('g');
+    
     g.append('text')
         .attr('class', 'x-axis-label')
         .attr('text-anchor', 'middle')
         .attr('x', $('#hdx-3W-who').width()/2)
         .attr('y', 400)
-        .text('Organization');
+        .text('Activities');
 
     var g = d3.selectAll('#hdx-3W-what').select('svg').append('g');
     
@@ -121,8 +121,8 @@ function generate3WComponent(config,data,geom){
         .attr('text-anchor', 'middle')
         .attr('x', $('#hdx-3W-what').width()/2)
         .attr('y', 400)
-        .text('Cluster');
-*/
+        .text('Activities');*/
+
     function zoomToGeom(geom){
         var bounds = d3.geo.bounds(geom);
         map.fitBounds([[bounds[0][1],bounds[0][0]],[bounds[1][1],bounds[1][0]]]);
