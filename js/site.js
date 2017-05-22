@@ -44,6 +44,8 @@ function generate3WComponent(config,data,geom){
             })
             .labelOffsetY(13)
             .colors([config.color])
+            .title(function (d) {
+                   return [ d.key + ": " + d.value + " Activities"]; })
             .colorAccessor(function(d, i){return 0;})
             .xAxis().ticks(5);
 
