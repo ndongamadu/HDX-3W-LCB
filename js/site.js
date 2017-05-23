@@ -75,11 +75,11 @@ function generate3WComponent(config,data,geom){
             .colorDomain([0,4])
             .colorAccessor(function (d) {
                 var c =0
-                if(d>150){
+                if(d>25){
                     c=4;
-                } else if (d>100) {
+                } else if (d>16) {
                     c=3;
-                } else if (d>50) {
+                } else if (d>6) {
                     c=2;
                 } else if (d>0) {
                     c=1;
