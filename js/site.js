@@ -1,8 +1,8 @@
 //configuration object
 
 var config = {
-    title:"Nepal Earthquake 2015 3W",
-    description:"Who is doing What, Where in response to the Nepal Earthquake - 06/05/2015",
+    title:"LCB 3W",
+    description:"Who is doing What, Where in response to the Lake Chad Basin crisis",
     data:"data/lcbdata.json",
     whoFieldName:"orga",
     whatFieldName:"sector",
@@ -35,16 +35,10 @@ function generate3WComponent(config,data,geom){
     var whoDimension = cf.dimension(function(d){ return d[config.whoFieldName]; });
     var whatDimension = cf.dimension(function(d){ return d[config.whatFieldName]; });
     var whereDimension = cf.dimension(function(d){ return d[config.whereFieldName]; });
-    if(config.sum){
-        var whoGroup = whoDimension.group().reduceSum(function(d){ return parseInt(d[config.sumField]); });
-        var whatGroup = whatDimension.group().reduceSum(function(d){ return parseInt(d[config.sumField]); });
-        var whereGroup = whereDimension.group().reduceSum(function(d){ return parseInt(d[config.sumField]); });        
-    } else {
-        var whoGroup = whoDimension.group();
-        var whatGroup = whatDimension.group();
-        var whereGroup = whereDimension.group(); 
-    }
-
+    var whoGroup = whoDimension.group().reduceSum(function(d){ return d[config.sumField]; });
+    var whatGroup = whatDimension.group().reduceSum(function(d){ return d[config.sumField]; });
+    var whereGroup = whereDimension.group().reduceSum(function(d){ return d[config.sumField]; });        
+      
     var all = cf.groupAll();
 
     whoChart.width($('#hxd-3W-who').width()).height(400)
@@ -124,7 +118,7 @@ function generate3WComponent(config,data,geom){
     
     
 
-    var g = d3.selectAll('#hdx-3W-who').select('svg').append('g');
+   /* var g = d3.selectAll('#hdx-3W-who').select('svg').append('g');
     
     g.append('text')
         .attr('class', 'x-axis-label')
@@ -140,7 +134,7 @@ function generate3WComponent(config,data,geom){
         .attr('text-anchor', 'middle')
         .attr('x', $('#hdx-3W-what').width()/2)
         .attr('y', 400)
-        .text(axisText);
+        .text(axisText);*/
 
     function zoomToGeom(geom){
         var bounds = d3.geo.bounds(geom);
