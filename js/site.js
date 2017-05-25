@@ -35,9 +35,9 @@ function generate3WComponent(config,data,geom){
     var whoDimension = cf.dimension(function(d){ return d[config.whoFieldName]; });
     var whatDimension = cf.dimension(function(d){ return d[config.whatFieldName]; });
     var whereDimension = cf.dimension(function(d){ return d[config.whereFieldName]; });
-    var whoGroup = whoDimension.group().reduceSum(function(d){ return d[config.sumField]; });
-    var whatGroup = whatDimension.group().reduceSum(function(d){ return d[config.sumField]; });
-    var whereGroup = whereDimension.group().reduceSum(function(d){ return d[config.sumField]; });        
+    var whoGroup = whoDimension.group();
+    var whatGroup = whatDimension.group();
+    var whereGroup = whereDimension.group();        
       
     var all = cf.groupAll();
 
