@@ -1,17 +1,23 @@
 //configuration object
 
 var config = {
-    title:"Lake Chad 3W",
-    description:"Who is doing What, Where in response to the Lake Chad Basin Crisis",
+    title:"Nepal Earthquake 2015 3W",
+    description:"Who is doing What, Where in response to the Nepal Earthquake - 06/05/2015",
     data:"data/lcbdata.json",
     whoFieldName:"orga",
     whatFieldName:"sector",
     whereFieldName:"Pcodes",
+    sum: true,
+    sumField:"presence",
     geo:"data/lcb.geojson",
-    joinAttribute:"Rowcacode1" ,
-    nameAttribute:"ADM1_NAME" ,
+    joinAttribute:"Rowcacode1",
+    nameAttribute:"ADM1_NAME",
     color:"#03a9f4"
 };
+
+//function to generate the 3W component
+//data is the whole 3W Excel data set
+//geom is geojson file
 
 function generate3WComponent(config,data,geom){
     
@@ -29,10 +35,16 @@ function generate3WComponent(config,data,geom){
     var whoDimension = cf.dimension(function(d){ return d[config.whoFieldName]; });
     var whatDimension = cf.dimension(function(d){ return d[config.whatFieldName]; });
     var whereDimension = cf.dimension(function(d){ return d[config.whereFieldName]; });
+    if(config.sum){
+        var whoGroup = whoDimension.group().reduceSum(function(d){ return parseInt(d[config.sumField]); });
+        var whatGroup = whatDimension.group().reduceSum(function(d){ return parseInt(d[config.sumField]); });
+        var whereGroup = whereDimension.group().reduceSum(function(d){ return parseInt(d[config.sumField]); });        
+    } else {
+        var whoGroup = whoDimension.group();
+        var whatGroup = whatDimension.group();
+        var whereGroup = whereDimension.group(); 
+    }
 
-    var whoGroup = whoDimension.group();
-    var whatGroup = whatDimension.group();
-    var whereGroup = whereDimension.group();
     var all = cf.groupAll();
 
     whoChart.width($('#hxd-3W-who').width()).height(400)
@@ -44,8 +56,6 @@ function generate3WComponent(config,data,geom){
             })
             .labelOffsetY(13)
             .colors([config.color])
-            .title(function (d) {
-                   return [ d.key + ": " + d.value + " Activities"]; })
             .colorAccessor(function(d, i){return 0;})
             .xAxis().ticks(5);
 
@@ -100,21 +110,28 @@ function generate3WComponent(config,data,geom){
                 'fillOpacity': 0.1,
                 'weight': 1
             });
-
     dc.renderAll();
     
     var map = whereChart.map();
 
     zoomToGeom(geom);
+
+    if(config.sum){
+        var axisText = config.sumField.substr(1);
+    } else {
+        var axisText = 'Activities';
+    }
     
-  /*  var g = d3.selectAll('#hdx-3W-who').select('svg').append('g');
+    
+
+    var g = d3.selectAll('#hdx-3W-who').select('svg').append('g');
     
     g.append('text')
         .attr('class', 'x-axis-label')
         .attr('text-anchor', 'middle')
         .attr('x', $('#hdx-3W-who').width()/2)
         .attr('y', 400)
-        .text('Activities');
+        .text(axisText);
 
     var g = d3.selectAll('#hdx-3W-what').select('svg').append('g');
     
@@ -123,7 +140,7 @@ function generate3WComponent(config,data,geom){
         .attr('text-anchor', 'middle')
         .attr('x', $('#hdx-3W-what').width()/2)
         .attr('y', 400)
-        .text('Activities');*/
+        .text(axisText);
 
     function zoomToGeom(geom){
         var bounds = d3.geo.bounds(geom);
@@ -138,6 +155,34 @@ function generate3WComponent(config,data,geom){
         return lookup;
     }
 }
+
+/*function hxlProxyToJSON(input,headers){
+    var output = [];
+    var keys=[]
+    input.forEach(function(e,i){
+        if(i==0){
+            e.forEach(function(e2,i2){
+                var parts = e2.split('+');
+                var key = parts[0]
+                if(parts.length>1){
+                    var atts = parts.splice(1,parts.length);
+                    atts.sort();
+                    atts.forEach(function(att){
+                        key +='+'+att
+                    });
+                }
+                keys.push(key);
+            });
+        } else {
+            var row = {};
+            e.forEach(function(e2,i2){
+                row[keys[i2]] = e2;
+            });
+            output.push(row);
+        }
+    });
+    return output;
+}*/
 
 //load 3W data
 
