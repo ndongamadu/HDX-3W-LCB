@@ -5,247 +5,8 @@
     "sector": "CCCM",
     "orga": "IOM",
     "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Coordination",
-    "orga": "OCHA",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Education",
-    "orga": "IRC",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Education",
-    "orga": "ECR",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Education",
-    "orga": "CCFN",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Education",
-    "orga": "UNICEF",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "ADRA",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "SMOA",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "ICEED",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "API",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "CISCOPE",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "OXFAM",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "UNDP",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "CRUDAN",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "AUN",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "UNHCR",
-    "Pcodes": "NGA002",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "TF",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Food Security",
-    "orga": "FAO",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Nutrition",
-    "orga": "IRC",
-    "Pcodes": "NGA002",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Nutrition",
-    "orga": "SPHCDA",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Nutrition",
-    "orga": "SMOH",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Protection",
-    "orga": "UNFPA",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Protection",
-    "orga": "ACTION AID",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Protection",
-    "orga": "UNHCR",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Protection",
-    "orga": "SMOWASD",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Protection",
-    "orga": "WYEAHI",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Protection",
-    "orga": "IRC",
-    "Pcodes": "NGA002",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Protection",
-    "orga": "IOM",
-    "Pcodes": "NGA002",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Protection",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "NGA002",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Shelter_NFI",
-    "orga": "IOM",
-    "Pcodes": "NGA002",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Adamawa",
-    "sector": "Shelter_NFI",
-    "orga": "UNHCR",
-    "Pcodes": "NGA002",
-    "presence": 0
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Nigeria",
@@ -253,1911 +14,8 @@
     "sector": "CCCM",
     "orga": "IOM",
     "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Coordination",
-    "orga": "OCHA",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Education",
-    "orga": "ECR",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Education",
-    "orga": "SUBEB",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Education",
-    "orga": "UNICEF",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Education",
-    "orga": "CAI",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Education",
-    "orga": "CCFN",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "SCI",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "ZOA",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "MSF - FRANCE",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "DRC",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "SEMA",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "CA UK",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "MC",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "YC",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "CRS",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "SMOA",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "INTERSOS",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "DHCBI",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "SIF",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "CISCOPE",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "PUI",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "WFP",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "FAO",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "SWNI",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "IMC",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "JDPH",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "EYN",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "AAH/ACF",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "YFWP",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "SC",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "OXFAM",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "AHCFF",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Food Security",
-    "orga": "NRC",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "IMC",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "MSF SUISSE",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "MSF - BELGIUM",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "WHO",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "MSF - SPAIN",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "ALIMA",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "MDM",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "MSF - FRANCE",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "PUI",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "POH",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "UNICEF",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "IRC",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "AAH/ACF",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Health",
-    "orga": "MSF - HOLLAND",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Nutrition",
-    "orga": "IMC",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Nutrition",
-    "orga": "SWNI",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Nutrition",
-    "orga": "MSF - SPAIN",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Nutrition",
-    "orga": "SPHCDA",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Nutrition",
-    "orga": "IRC",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Nutrition",
-    "orga": "MSF - BELGIUM",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Nutrition",
-    "orga": "MDM",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Nutrition",
-    "orga": "SMOH",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "SMOWA",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "SCI",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "NF",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "CFL",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "FHI360",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "NRCS",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "OXFAM",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "IMC",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "WINN",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "CCHD",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "WYEAHI",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "GEPDC",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "DRC",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "UNFPA",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "MC",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "SMOWASD",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "IOM",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "EYN",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Protection",
-    "orga": "IRC",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Shelter_NFI",
-    "orga": "IOM",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Shelter_NFI",
-    "orga": "CRS",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Shelter_NFI",
-    "orga": "POH",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Shelter_NFI",
-    "orga": "NRC",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "Shelter_NFI",
-    "orga": "UNHCR",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "IOM",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "UNICEF",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "OXFAM",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "CIDAR",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "JDPH",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "NRC",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "FHI360",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "YWN",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "CA",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "EYN",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "POH",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "NRCS",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "MSF - FRANCE",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "RUWASSA",
-    "Pcodes": "NGA008",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "IMC",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "CRS",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "SCI",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "IRC",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Borno",
-    "sector": "WASH",
-    "orga": "MC",
-    "Pcodes": "NGA008",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Coordination",
-    "orga": "OCHA",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Early Recovery",
-    "orga": "UNDP",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Early Recovery",
-    "orga": "IRC",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "AIDN",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "CRL",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "EIRENE SAHEL",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "COOPI",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "IRC",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "UNHCR",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "APEFA",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "CONCERN",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "LUDEV/PAQUE II",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "WFP",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Education",
-    "orga": "VDN-NUR",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "KARKARA",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "UNHCR",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "SAMARITAN'S PURSE",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "DEMI-E",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "PGCCA",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "AGIR PLUS-21",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "IRC",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "MAHGC",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "SCI",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "SOS-VE",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "AIDN",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "DRC",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "CRS",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "OXFAM",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "VDN-NUR",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "WFP",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "CADEV",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "AAH/ACF",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "WELTHUNGERHILFE",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "CCA",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Food Security",
-    "orga": "KOURI",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "UNICEF",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "MSF SUISSE",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "AKARASS",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "AAH/ACF",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "MSF - FRANCE",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "WFP",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "HKI",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "APBE",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "UNHCR",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "WHO",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "IRC",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "MSF - SPAIN",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "UNFPA",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "KARKARA",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "SOS-VE",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "COOPI",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Health",
-    "orga": "SCI",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "MultiSecteur",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "MultiSecteur",
-    "orga": "CADEV",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "MultiSecteur",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "MultiSecteur",
-    "orga": "KARKARA",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "MultiSecteur",
-    "orga": "ACTED",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "MultiSecteur",
-    "orga": "IRC",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "MultiSecteur",
-    "orga": "SFCG",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "MultiSecteur",
-    "orga": "AREN",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "MultiSecteur",
-    "orga": "UNHCR",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "MultiSecteur",
-    "orga": "KOURI",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "UNFPA",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "APBE",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "MSF - FRANCE",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "AAH/ACF",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "MSF - SPAIN",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "WHO",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "SOS-VE",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "COOPI",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "MSF SUISSE",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "AKARASS",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "IRC",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "HKI",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "KARKARA",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "UNHCR",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "UNICEF",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "WFP",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Nutrition",
-    "orga": "SCI",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "DRC",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "IRC",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "CBA",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "SOS-VE",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "COOPI",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "AIDN",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "WORLD VISION",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "OXFAM",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "UNHCR",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "KARKARA",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "SCI",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Protection",
-    "orga": "AGIR PLUS-21",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "IOM",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "DEMI-E",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "OXFAM",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "CRL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "MAHGC",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "APBE",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "CISP",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "CRS",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "IRC",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "SOS-VE",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "UNHCR",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "Shelter_NFI",
-    "orga": "WORLD VISION",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "OXFAM",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "SAMARITAN'S PURSE",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "DRH",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "UNICEF",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "AAH/ACF",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "ACTED",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "AGIR PLUS-21",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "DRHA",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "IAS",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "WORLD VISION",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "IEDA RELIEF",
-    "Pcodes": "NER002",
-    "presence": 1
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "IRC",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "CRS",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "HKI",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "CRL",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "KOURI",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "SCI",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "MSF SUISSE",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "DEMI-E",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "LUDEV/PAQUE II",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Niger",
-    "Admin1": "Diffa",
-    "sector": "WASH",
-    "orga": "CADEV",
-    "Pcodes": "NER002",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "CCCM",
-    "orga": "PUBLIC CONCERNE",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "CCCM",
-    "orga": "PUI",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "CCCM",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "CCCM",
-    "orga": "CICR",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "CCCM",
-    "orga": "MSF SUISSE",
-    "Pcodes": "CMR004",
-    "presence": 0
+    "presence": 1,
+    "count": 0
   },
   {
     "Country": "Cameroon",
@@ -2165,7 +23,8 @@
     "sector": "CCCM",
     "orga": "ADES",
     "Pcodes": "CMR004",
-    "presence": 1
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Cameroon",
@@ -2173,7 +32,26 @@
     "sector": "CCCM",
     "orga": "AIRD",
     "Pcodes": "CMR004",
-    "presence": 1
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "CCCM",
+    "orga": "ALDEPA",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "CCCM",
+    "orga": "CICR",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Cameroon",
@@ -2181,7 +59,17 @@
     "sector": "CCCM",
     "orga": "CRC",
     "Pcodes": "CMR004",
-    "presence": 1
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "CCCM",
+    "orga": "IEDA RELIEF",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Cameroon",
@@ -2189,23 +77,8 @@
     "sector": "CCCM",
     "orga": "IMC",
     "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "CCCM",
-    "orga": "IEDA RELIEF",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "CCCM",
-    "orga": "ALDEPA",
-    "Pcodes": "CMR004",
-    "presence": 1
+    "presence": 0,
+    "count": 1
   },
   {
     "Country": "Cameroon",
@@ -2213,927 +86,53 @@
     "sector": "CCCM",
     "orga": "INTERSOS",
     "Pcodes": "CMR004",
-    "presence": 1
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Cameroon",
     "Admin1": "Far-North",
-    "sector": "Coordination",
-    "orga": "UNHCR",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Early Recovery",
-    "orga": "GIZ",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Early Recovery",
-    "orga": "UICN",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Early Recovery",
-    "orga": "IEDA RELIEF",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Early Recovery",
-    "orga": "SAILD",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Early Recovery",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Early Recovery",
-    "orga": "JAPSSO",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Early Recovery",
-    "orga": "CARVARD",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Early Recovery",
-    "orga": "COPRESSA",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Early Recovery",
-    "orga": "FLM",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Early Recovery",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Early Recovery",
-    "orga": "SAHELI",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Education",
-    "orga": "CROPSEC",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Education",
-    "orga": "ALDEPA",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Education",
-    "orga": "CODAS CARITAS",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Education",
-    "orga": "PUBLIC CONCERNE",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Education",
-    "orga": "DEMTOU",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Education",
-    "orga": "ADRA",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Education",
-    "orga": "SDA",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Education",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Education",
-    "orga": "CDD",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Education",
-    "orga": "COPRESSA",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "CRF",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "PUI",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "CAPROD",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "DEMTOU",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "SDA",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "FADEC",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "CDD",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "CRS",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "IRC",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "SAHELI",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "CRC",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "IEDA RELIEF",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "SAILD",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "CICR",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "CODAS CARITAS",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "PUBLIC CONCERNE",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Food Security",
-    "orga": "SNV",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "AAH/ACF",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "CRC",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "AHA",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "CODAS CARITAS",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "SDA",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
+    "sector": "CCCM",
     "orga": "MSF SUISSE",
     "Pcodes": "CMR004",
-    "presence": 1
+    "presence": 0,
+    "count": 1
   },
   {
     "Country": "Cameroon",
     "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "CDD",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "ALIMA",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "IMC",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "CRF",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "CICR",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "ALDEPA",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "DEMTOU",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "ADRA",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Health",
-    "orga": "AGADJAS",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
+    "sector": "CCCM",
     "orga": "PLAN INTERNATIONAL",
     "Pcodes": "CMR004",
-    "presence": 0
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Cameroon",
     "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "IMC",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "SNV",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "CRF",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "DEMTOU",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "SDA",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "IEDA RELIEF",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "ALIMA",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "AHA",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "CICR",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "ACDEV",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "AGADJAS",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "CRC",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "MSF SUISSE",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "AAH/ACF",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Nutrition",
-    "orga": "CODAS CARITAS",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "CICR",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "RESPECT CAMEROUN",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "ALVF",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "CAPROD",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "ALDEPA",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "CODAS CARITAS",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "IEDA RELIEF",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "DHCS",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "MDDHL",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "SAHELI",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "DEMTOU",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "CDD",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "INTERSOS",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "IMC",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Protection",
-    "orga": "CLIRA",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Shelter_NFI",
-    "orga": "ADES",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Shelter_NFI",
+    "sector": "CCCM",
     "orga": "PUBLIC CONCERNE",
     "Pcodes": "CMR004",
-    "presence": 0
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Cameroon",
     "Admin1": "Far-North",
-    "sector": "Shelter_NFI",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Shelter_NFI",
-    "orga": "ALDEPA",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Shelter_NFI",
-    "orga": "ICAHD",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Shelter_NFI",
-    "orga": "IEDA RELIEF",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Shelter_NFI",
-    "orga": "RESPECT CAMEROUN",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Shelter_NFI",
-    "orga": "SAHELI",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Shelter_NFI",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Shelter_NFI",
-    "orga": "AIRD",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "Shelter_NFI",
-    "orga": "INTERSOS",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "CRC",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "CICR",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "AIDER",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "DEMTOU",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "AAH/ACF",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "PLAN INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "IMC",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
+    "sector": "CCCM",
     "orga": "PUI",
     "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "SOLIDARITES INTERNATIONALES",
-    "Pcodes": "CMR004",
-    "presence": 1
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "CRS",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "PUBLIC CONCERNE",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "IRC",
-    "Pcodes": "CMR004",
-    "presence": 0
-  },
-  {
-    "Country": "Cameroon",
-    "Admin1": "Far-North",
-    "sector": "WASH",
-    "orga": "CODAS CARITAS",
-    "Pcodes": "CMR004",
-    "presence": 0
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Chad",
     "Admin1": "Lac",
     "sector": "CCCM",
-    "orga": "IOM",
+    "orga": "AAH/ACF",
     "Pcodes": "TCD007",
-    "presence": 1
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Chad",
@@ -3141,7 +140,8 @@
     "sector": "CCCM",
     "orga": "CICR",
     "Pcodes": "TCD007",
-    "presence": 1
+    "presence": 1,
+    "count": 0
   },
   {
     "Country": "Chad",
@@ -3149,23 +149,8 @@
     "sector": "CCCM",
     "orga": "CRT",
     "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "CCCM",
-    "orga": "UNICEF",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "CCCM",
-    "orga": "UNHCR",
-    "Pcodes": "TCD007",
-    "presence": 1
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Chad",
@@ -3173,23 +158,71 @@
     "sector": "CCCM",
     "orga": "HELP TCHAD",
     "Pcodes": "TCD007",
-    "presence": 1
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Chad",
     "Admin1": "Lac",
     "sector": "CCCM",
-    "orga": "AAH/ACF",
+    "orga": "IOM",
     "Pcodes": "TCD007",
-    "presence": 1
+    "presence": 1,
+    "count": 0
   },
   {
     "Country": "Chad",
     "Admin1": "Lac",
-    "sector": "Coordination",
+    "sector": "CCCM",
     "orga": "UNHCR",
     "Pcodes": "TCD007",
-    "presence": 0
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "CCCM",
+    "orga": "UNICEF",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Coordination",
+    "orga": "OCHA",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Coordination",
+    "orga": "OCHA",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Coordination",
+    "orga": "OCHA",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Coordination",
+    "orga": "UNHCR",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Chad",
@@ -3197,7 +230,8 @@
     "sector": "Coordination",
     "orga": "OCHA",
     "Pcodes": "TCD007",
-    "presence": 1
+    "presence": 1,
+    "count": 0
   },
   {
     "Country": "Chad",
@@ -3205,631 +239,17 @@
     "sector": "Coordination",
     "orga": "UNDSS",
     "Pcodes": "TCD007",
-    "presence": 1
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Chad",
     "Admin1": "Lac",
-    "sector": "Education",
-    "orga": "SECADEV",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Education",
-    "orga": "CERJCAB",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Education",
-    "orga": "COOPI",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Education",
-    "orga": "UNICEF",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Education",
-    "orga": "CRT",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Education",
-    "orga": "HANDICAP INTERNATIONAL",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Education",
+    "sector": "Coordination",
     "orga": "UNHCR",
     "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "CRT",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "CHORA",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "COOPI",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "CRS",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "FAO",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "OXFAM",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "PADIESE",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "ACTED",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "UNHCR",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "SECADEV",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "OHD",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "ACHUDE",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "IHDL",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "WFP",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "HELP TCHAD",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "CICR",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Food Security",
-    "orga": "AAH/ACF",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "IMC",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "UNHCR",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "UNICEF",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "ALIMA",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "WHO",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "SECADEV",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "INTERSOS",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "CRT",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "CERJCAB",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "UNFPA",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "AAH/ACF",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "IRC",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Health",
-    "orga": "MSF SUISSE",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "IMC",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "WHO",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "AAH/ACF",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "WFP",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "ACHUDE",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "AL NADJA",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "UNHCR",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "UNFPA",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "MSF SUISSE",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "CELIAF",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "SECADEV",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "IRC",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "ACTED",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "UNICEF",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Nutrition",
-    "orga": "ALIMA",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "HANDICAP INTERNATIONAL",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "UNHCR",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "IHDL",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "IOM",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "UNICEF",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "AAH/ACF",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "HELP TCHAD",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "OXFAM",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "COOPI",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "APSELPA",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "UNFPA",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "ADRA",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "Protection",
-    "orga": "CRT",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "WASH",
-    "orga": "WORLD VISION",
-    "Pcodes": "TCD007",
-    "presence": 1
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "WASH",
-    "orga": "MSF SUISSE",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "WASH",
-    "orga": "UNHCR",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "WASH",
-    "orga": "AAH/ACF",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "WASH",
-    "orga": "HELP TCHAD",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "WASH",
-    "orga": "OXFAM",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "WASH",
-    "orga": "CRT",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "WASH",
-    "orga": "UNICEF",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "WASH",
-    "orga": "CICR",
-    "Pcodes": "TCD007",
-    "presence": 0
-  },
-  {
-    "Country": "Chad",
-    "Admin1": "Lac",
-    "sector": "WASH",
-    "orga": "CARE INTERNATIONAL",
-    "Pcodes": "TCD007",
-    "presence": 0
+    "presence": 0,
+    "count": 0
   },
   {
     "Country": "Nigeria",
@@ -3837,7 +257,467 @@
     "sector": "Coordination",
     "orga": "OCHA",
     "Pcodes": "NGA036",
-    "presence": 1
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Early Recovery",
+    "orga": "IRC",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Early Recovery",
+    "orga": "UNDP",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Early Recovery",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Early Recovery",
+    "orga": "CARVARD",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Early Recovery",
+    "orga": "COPRESSA",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Early Recovery",
+    "orga": "FLM",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Early Recovery",
+    "orga": "GIZ",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Early Recovery",
+    "orga": "IEDA RELIEF",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Early Recovery",
+    "orga": "JAPSSO",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Early Recovery",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Early Recovery",
+    "orga": "SAHELI",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Early Recovery",
+    "orga": "SAILD",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Early Recovery",
+    "orga": "UICN",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Education",
+    "orga": "CCFN",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Education",
+    "orga": "ECR",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Education",
+    "orga": "IRC",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Education",
+    "orga": "UNICEF",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Education",
+    "orga": "CAI",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Education",
+    "orga": "CCFN",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Education",
+    "orga": "ECR",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Education",
+    "orga": "SUBEB",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Education",
+    "orga": "UNICEF",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "AIDN",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "APEFA",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "CONCERN",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "COOPI",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "CRL",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "EIRENE SAHEL",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "IRC",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "LUDEV/PAQUE II",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "UNHCR",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "VDN-NUR",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Education",
+    "orga": "WFP",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Education",
+    "orga": "ADRA",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Education",
+    "orga": "ALDEPA",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Education",
+    "orga": "CDD",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Education",
+    "orga": "CODAS CARITAS",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Education",
+    "orga": "COPRESSA",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Education",
+    "orga": "CROPSEC",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Education",
+    "orga": "DEMTOU",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Education",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Education",
+    "orga": "PUBLIC CONCERNE",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Education",
+    "orga": "SDA",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Education",
+    "orga": "CERJCAB",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Education",
+    "orga": "COOPI",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Education",
+    "orga": "CRT",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Education",
+    "orga": "HANDICAP INTERNATIONAL",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Education",
+    "orga": "SECADEV",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Education",
+    "orga": "UNHCR",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Education",
+    "orga": "UNICEF",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
   },
   {
     "Country": "Nigeria",
@@ -3845,15 +725,8 @@
     "sector": "Education",
     "orga": "CAI",
     "Pcodes": "NGA036",
-    "presence": 1
-  },
-  {
-    "Country": "Nigeria",
-    "Admin1": "Yobe",
-    "sector": "Education",
-    "orga": "ECR",
-    "Pcodes": "NGA036",
-    "presence": 1
+    "presence": 1,
+    "count": 0
   },
   {
     "Country": "Nigeria",
@@ -3861,31 +734,908 @@
     "sector": "Education",
     "orga": "CCFN",
     "Pcodes": "NGA036",
-    "presence": 1
+    "presence": 1,
+    "count": 0
   },
   {
     "Country": "Nigeria",
     "Admin1": "Yobe",
+    "sector": "Education",
+    "orga": "ECR",
+    "Pcodes": "NGA036",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Food Security",
+    "orga": "ADRA",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Food Security",
+    "orga": "API",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Food Security",
+    "orga": "AUN",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
     "sector": "Food Security",
     "orga": "CISCOPE",
-    "Pcodes": "NGA036",
-    "presence": 1
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Nigeria",
-    "Admin1": "Yobe",
+    "Admin1": "Adamawa",
+    "sector": "Food Security",
+    "orga": "CRUDAN",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Food Security",
+    "orga": "FAO",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Food Security",
+    "orga": "ICEED",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
     "sector": "Food Security",
     "orga": "OXFAM",
-    "Pcodes": "NGA036",
-    "presence": 1
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
   },
   {
     "Country": "Nigeria",
-    "Admin1": "Yobe",
+    "Admin1": "Adamawa",
+    "sector": "Food Security",
+    "orga": "SMOA",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Food Security",
+    "orga": "TF",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Food Security",
+    "orga": "UNDP",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Food Security",
+    "orga": "UNHCR",
+    "Pcodes": "NGA002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "AAH/ACF",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "AHCFF",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "CA UK",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "CISCOPE",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "CRS",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "DHCBI",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "DRC",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "EYN",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "FAO",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "IMC",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "INTERSOS",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "JDPH",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "MC",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "MSF - FRANCE",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "NRC",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "OXFAM",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "PUI",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "SC",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "SCI",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "SEMA",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "SIF",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "SMOA",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "SWNI",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
     "sector": "Food Security",
     "orga": "WFP",
-    "Pcodes": "NGA036",
-    "presence": 1
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "YC",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "YFWP",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Food Security",
+    "orga": "ZOA",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "AAH/ACF",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "AGIR PLUS-21",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "AIDN",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "CADEV",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "CCA",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "CRS",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "DEMI-E",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "DRC",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "IRC",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "KARKARA",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "KOURI",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "MAHGC",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "OXFAM",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "PGCCA",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "SAMARITAN'S PURSE",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "SCI",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "SOS-VE",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "UNHCR",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "VDN-NUR",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "WELTHUNGERHILFE",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Food Security",
+    "orga": "WFP",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "CAPROD",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "CDD",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "CICR",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "CODAS CARITAS",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "CRC",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "CRF",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "CRS",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "DEMTOU",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "FADEC",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "IEDA RELIEF",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "IRC",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "PUBLIC CONCERNE",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "PUI",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "SAHELI",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "SAILD",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "SDA",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Food Security",
+    "orga": "SNV",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "AAH/ACF",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "ACHUDE",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": ""
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "ACTED",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": ""
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "CHORA",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "CICR",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "COOPI",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "CRS",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "CRT",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "FAO",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "HELP TCHAD",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "IHDL",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": ""
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "OHD",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "OXFAM",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "PADIESE",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "SECADEV",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "UNHCR",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Food Security",
+    "orga": "WFP",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
   },
   {
     "Country": "Nigeria",
@@ -3893,7 +1643,26 @@
     "sector": "Food Security",
     "orga": "AAH/ACF",
     "Pcodes": "NGA036",
-    "presence": 1
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Yobe",
+    "sector": "Food Security",
+    "orga": "CISCOPE",
+    "Pcodes": "NGA036",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Yobe",
+    "sector": "Food Security",
+    "orga": "COOPI",
+    "Pcodes": "NGA036",
+    "presence": 1,
+    "count": 0
   },
   {
     "Country": "Nigeria",
@@ -3901,15 +1670,575 @@
     "sector": "Food Security",
     "orga": "CRS",
     "Pcodes": "NGA036",
-    "presence": 1
+    "presence": 1,
+    "count": 0
   },
   {
     "Country": "Nigeria",
     "Admin1": "Yobe",
     "sector": "Food Security",
-    "orga": "COOPI",
+    "orga": "OXFAM",
     "Pcodes": "NGA036",
-    "presence": 1
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Yobe",
+    "sector": "Food Security",
+    "orga": "WFP",
+    "Pcodes": "NGA036",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "AAH/ACF",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "ALIMA",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "IMC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "IRC",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "MDM",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "MSF - BELGIUM",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "MSF - FRANCE",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "MSF - HOLLAND",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "MSF - SPAIN",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "MSF SUISSE",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "POH",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "PUI",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "UNICEF",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Health",
+    "orga": "WHO",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "AAH/ACF",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "AKARASS",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "APBE",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "COOPI",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "HKI",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "IRC",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "KARKARA",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "MSF - FRANCE",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "MSF - SPAIN",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "MSF SUISSE",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "SCI",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "SOS-VE",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "UNFPA",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "UNHCR",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "UNICEF",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "WFP",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Health",
+    "orga": "WHO",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "AAH/ACF",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "ADRA",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "AGADJAS",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "AHA",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "ALDEPA",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "ALIMA",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "CDD",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "CICR",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "CODAS CARITAS",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "CRC",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "CRF",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "DEMTOU",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "IMC",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "MSF SUISSE",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Health",
+    "orga": "SDA",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "AAH/ACF",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "ALIMA",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "CERJCAB",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "CRT",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "IMC",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "INTERSOS",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "IRC",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "MSF SUISSE",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "SECADEV",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "UNFPA",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "UNHCR",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "UNICEF",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Health",
+    "orga": "WHO",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
   },
   {
     "Country": "Nigeria",
@@ -3917,7 +2246,647 @@
     "sector": "Health",
     "orga": "MSF - SPAIN",
     "Pcodes": "NGA036",
-    "presence": 1
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "MultiSecteur",
+    "orga": "ACTED",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "MultiSecteur",
+    "orga": "AREN",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "MultiSecteur",
+    "orga": "CADEV",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "MultiSecteur",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "MultiSecteur",
+    "orga": "IRC",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "MultiSecteur",
+    "orga": "KARKARA",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "MultiSecteur",
+    "orga": "KOURI",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "MultiSecteur",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "MultiSecteur",
+    "orga": "SFCG",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "MultiSecteur",
+    "orga": "UNHCR",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Nutrition",
+    "orga": "IRC",
+    "Pcodes": "NGA002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Nutrition",
+    "orga": "SMOH",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Nutrition",
+    "orga": "SPHCDA",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Nutrition",
+    "orga": "IMC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Nutrition",
+    "orga": "IRC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Nutrition",
+    "orga": "MDM",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Nutrition",
+    "orga": "MSF - BELGIUM",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Nutrition",
+    "orga": "MSF - SPAIN",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Nutrition",
+    "orga": "SMOH",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Nutrition",
+    "orga": "SPHCDA",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Nutrition",
+    "orga": "SWNI",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "AAH/ACF",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "AKARASS",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "APBE",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "COOPI",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "HKI",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "IRC",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "KARKARA",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "MSF - FRANCE",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "MSF - SPAIN",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "MSF SUISSE",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "SCI",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "SOS-VE",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "UNFPA",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "UNHCR",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "UNICEF",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "WFP",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Nutrition",
+    "orga": "WHO",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "AAH/ACF",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "ACDEV",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "AGADJAS",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "AHA",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "ALIMA",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "CICR",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "CODAS CARITAS",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "CRC",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "CRF",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "DEMTOU",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "IEDA RELIEF",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "IMC",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "MSF SUISSE",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "SDA",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Nutrition",
+    "orga": "SNV",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "AAH/ACF",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "ACHUDE",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "ACTED",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "AL NADJA",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "ALIMA",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "CELIAF",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "IMC",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "IRC",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "MSF SUISSE",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "SECADEV",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "UNFPA",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "UNHCR",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "UNICEF",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "WFP",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Nutrition",
+    "orga": "WHO",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
   },
   {
     "Country": "Nigeria",
@@ -3925,23 +2894,656 @@
     "sector": "Nutrition",
     "orga": "MSF - SPAIN",
     "Pcodes": "NGA036",
-    "presence": 0
+    "presence": 0,
+    "count": 0
   },
   {
     "Country": "Nigeria",
-    "Admin1": "Yobe",
+    "Admin1": "Adamawa",
+    "sector": "Protection",
+    "orga": "ACTION AID",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Protection",
+    "orga": "IOM",
+    "Pcodes": "NGA002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
     "sector": "Protection",
     "orga": "IRC",
-    "Pcodes": "NGA036",
-    "presence": 0
+    "Pcodes": "NGA002",
+    "presence": 0,
+    "count": 1
   },
   {
     "Country": "Nigeria",
-    "Admin1": "Yobe",
+    "Admin1": "Adamawa",
     "sector": "Protection",
-    "orga": "SMYSSCD",
-    "Pcodes": "NGA036",
-    "presence": 1
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Protection",
+    "orga": "SMOWASD",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Protection",
+    "orga": "UNFPA",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Protection",
+    "orga": "UNHCR",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Protection",
+    "orga": "WYEAHI",
+    "Pcodes": "NGA002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "CCHD",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "CFL",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "DRC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "EYN",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "FHI360",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "GEPDC",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "IMC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "IOM",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "IRC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "MC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "NF",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "NRCS",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "OXFAM",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "SCI",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "SMOWA",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "SMOWASD",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "UNFPA",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "WINN",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Protection",
+    "orga": "WYEAHI",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "AGIR PLUS-21",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "AIDN",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "CBA",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "COOPI",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "DRC",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "IRC",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "KARKARA",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "OXFAM",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "SCI",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "SOS-VE",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "UNHCR",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Protection",
+    "orga": "WORLD VISION",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "ALDEPA",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "ALVF",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "CAPROD",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "CDD",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "CICR",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "CLIRA",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "CODAS CARITAS",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "DEMTOU",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "DHCS",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "IEDA RELIEF",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "IMC",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "INTERSOS",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "MDDHL",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "RESPECT CAMEROUN",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Protection",
+    "orga": "SAHELI",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "AAH/ACF",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "ADRA",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "APSELPA",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "COOPI",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "CRT",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "HANDICAP INTERNATIONAL",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "HELP TCHAD",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "IHDL",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "IOM",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "OXFAM",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "UNFPA",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "UNHCR",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "Protection",
+    "orga": "UNICEF",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
   },
   {
     "Country": "Nigeria",
@@ -3949,7 +3551,8 @@
     "sector": "Protection",
     "orga": "COOPI",
     "Pcodes": "NGA036",
-    "presence": 0
+    "presence": 0,
+    "count": 0
   },
   {
     "Country": "Nigeria",
@@ -3957,22 +3560,916 @@
     "sector": "Protection",
     "orga": "DRC",
     "Pcodes": "NGA036",
-    "presence": 1
+    "presence": 1,
+    "count": 0
   },
   {
     "Country": "Nigeria",
     "Admin1": "Yobe",
-    "sector": "Shelter_NFI",
-    "orga": "UNHCR",
+    "sector": "Protection",
+    "orga": "IRC",
     "Pcodes": "NGA036",
-    "presence": 1
+    "presence": 0,
+    "count": 0
   },
   {
     "Country": "Nigeria",
     "Admin1": "Yobe",
-    "sector": "Shelter_NFI",
+    "sector": "Protection",
+    "orga": "SMYSSCD",
+    "Pcodes": "NGA036",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Shelter/NFI",
+    "orga": "IOM",
+    "Pcodes": "NGA002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Adamawa",
+    "sector": "Shelter/NFI",
+    "orga": "UNHCR",
+    "Pcodes": "NGA002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Shelter/NFI",
+    "orga": "CRS",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Shelter/NFI",
+    "orga": "IOM",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Shelter/NFI",
+    "orga": "NRC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Shelter/NFI",
+    "orga": "POH",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "Shelter/NFI",
+    "orga": "UNHCR",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "APBE",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "CISP",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "CRL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "CRS",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "DEMI-E",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "IOM",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "IRC",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "MAHGC",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "OXFAM",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "SOS-VE",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "UNHCR",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "Shelter/NFI",
+    "orga": "WORLD VISION",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Shelter/NFI",
+    "orga": "ADES",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Shelter/NFI",
+    "orga": "AIRD",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Shelter/NFI",
+    "orga": "ALDEPA",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Shelter/NFI",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Shelter/NFI",
+    "orga": "ICAHD",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Shelter/NFI",
+    "orga": "IEDA RELIEF",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Shelter/NFI",
+    "orga": "INTERSOS",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Shelter/NFI",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Shelter/NFI",
+    "orga": "PUBLIC CONCERNE",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Shelter/NFI",
+    "orga": "RESPECT CAMEROUN",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "Shelter/NFI",
+    "orga": "SAHELI",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Yobe",
+    "sector": "Shelter/NFI",
     "orga": "POH",
     "Pcodes": "NGA036",
-    "presence": 0
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Yobe",
+    "sector": "Shelter/NFI",
+    "orga": "UNHCR",
+    "Pcodes": "NGA036",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "CA",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "CIDAR",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "CRS",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "EYN",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "FHI360",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "IMC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "IOM",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "IRC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "JDPH",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "MC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "MSF - FRANCE",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "NRC",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "NRCS",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "OXFAM",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "POH",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "RUWASSA",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "SCI",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "UNICEF",
+    "Pcodes": "NGA008",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Nigeria",
+    "Admin1": "Borno",
+    "sector": "WASH",
+    "orga": "YWN",
+    "Pcodes": "NGA008",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "AAH/ACF",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "ACTED",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "AGIR PLUS-21",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "CADEV",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "CRL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "CRS",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "DEMI-E",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "DRH",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "DRHA",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "HKI",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "IAS",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "IEDA RELIEF",
+    "Pcodes": "NER002",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "IRC",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "KOURI",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "LUDEV/PAQUE II",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "MSF SUISSE",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "OXFAM",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "SAMARITAN'S PURSE",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "SCI",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "UNICEF",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Niger",
+    "Admin1": "Diffa",
+    "sector": "WASH",
+    "orga": "WORLD VISION",
+    "Pcodes": "NER002",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "AAH/ACF",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "AIDER",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "CICR",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "CODAS CARITAS",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "CRC",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "CRS",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "DEMTOU",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "IMC",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "IRC",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "PLAN INTERNATIONAL",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "PUBLIC CONCERNE",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "PUI",
+    "Pcodes": "CMR004",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Cameroon",
+    "Admin1": "Far-North",
+    "sector": "WASH",
+    "orga": "SOLIDARITES INTERNATIONALES",
+    "Pcodes": "CMR004",
+    "presence": 1,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "WASH",
+    "orga": "AAH/ACF",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "WASH",
+    "orga": "CARE INTERNATIONAL",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "WASH",
+    "orga": "CICR",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "WASH",
+    "orga": "CRT",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "WASH",
+    "orga": "HELP TCHAD",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "WASH",
+    "orga": "MSF SUISSE",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "WASH",
+    "orga": "OXFAM",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "WASH",
+    "orga": "UNHCR",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 1
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "WASH",
+    "orga": "UNICEF",
+    "Pcodes": "TCD007",
+    "presence": 0,
+    "count": 0
+  },
+  {
+    "Country": "Chad",
+    "Admin1": "Lac",
+    "sector": "WASH",
+    "orga": "WORLD VISION",
+    "Pcodes": "TCD007",
+    "presence": 1,
+    "count": 0
   }
 ]
