@@ -1,7 +1,7 @@
 //configuration object
 
 var config = {
-    title:"LCB 3W",
+    title:" 3W",
     description:"Who is doing What, Where in response to the Lake Chad Basin crisis",
     data:"data/lcbdata.json",
     whoFieldName:"orga",
@@ -35,9 +35,9 @@ function generate3WComponent(config,data,geom){
     var whoDimension = cf.dimension(function(d){ return d[config.whoFieldName]; });
     var whatDimension = cf.dimension(function(d){ return d[config.whatFieldName]; });
     var whereDimension = cf.dimension(function(d){ return d[config.whereFieldName]; });
-    var whoGroup = whoDimension.group();
+    var whoGroup = whoDimension.group().reduceSum(function(d){ return d[config.sumField]; });
     var whatGroup = whatDimension.group();
-    var whereGroup = whereDimension.group();        
+    var whereGroup = whereDimension.group().reduceSum(function(d){ return d[config.sumField]; });        
       
     var all = cf.groupAll();
 
@@ -51,18 +51,24 @@ function generate3WComponent(config,data,geom){
             .labelOffsetY(13)
             .colors([config.color])
             .colorAccessor(function(d, i){return 0;})
+            .title(function(d){return [ 
+                d.value + " areas"].join('\n')})
             .xAxis().ticks(5);
 
     whatChart.width($('#hxd-3W-what').width()).height(400)
             .dimension(whatDimension)
             .group(whatGroup)
             .elasticX(true)
+            .title(function(d){return [ 
+                d.value + " organisations"].join('\n')})
             .data(function(group) {
                 return group.top(15);
             })
+
             .labelOffsetY(13)
             .colors([config.color])
             .colorAccessor(function(d, i){return 0;})
+          //  .renderTitle(false)
             .xAxis().ticks(5);
 
     dc.dataCount('#count-info')
