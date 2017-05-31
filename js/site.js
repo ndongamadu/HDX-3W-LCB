@@ -1,7 +1,7 @@
-//configuration object
+
 
 var config = {
-    title:" 3W",
+    title:" 3W Dashboard",
     description:"Who is doing What, Where in response to the Lake Chad Basin crisis",
     data:"data/lcbdata.json",
     whoFieldName:"orga",
@@ -17,10 +17,6 @@ var config = {
     color:"#03a9f4"
 };
 
-//function to generate the 3W component
-//data is the whole 3W Excel data set
-//geom is geojson file
-
 function generate3WComponent(config,data,geom){
     
     var lookup = genLookup(geom,config);
@@ -31,6 +27,7 @@ function generate3WComponent(config,data,geom){
     var whoChart = dc.rowChart('#hdx-3W-who');
     var whatChart = dc.rowChart('#hdx-3W-what');
     var whereChart = dc.leafletChoroplethChart('#hdx-3W-where');
+    var sumChart = dc.numberDisplay('#count-info')
 
     var cf = crossfilter(data);
 
@@ -40,8 +37,16 @@ function generate3WComponent(config,data,geom){
     var whoGroup = whoDimension.group().reduceSum(function(d){ return d[config.sumField]; });
     var whatGroup = whatDimension.group().reduceSum(function(d){ return d[config.sumcountField]; });
     var whereGroup = whereDimension.group().reduceSum(function(d){ return d[config.sumField]; });        
-      
+    
     var all = cf.groupAll();
+
+    var sumdim =  cf.dimension(function(d){ return d[config.sumField]; });
+    var sumgroup = sumdim.group().reduceSum(function(d){return d[config.sumField]; });
+   
+    sumChart
+       .valueAccessor(function(d){return +d.value})
+       .group(sumgroup);   
+    
 
     whoChart.width($('#hxd-3W-who').width()).height(400)
             .dimension(whoDimension)
@@ -66,7 +71,6 @@ function generate3WComponent(config,data,geom){
             .data(function(group) {
                 return group.top(15);
             })
-
             .labelOffsetY(13)
             .colors([config.color])
             .colorAccessor(function(d, i){return 0;})
@@ -74,9 +78,9 @@ function generate3WComponent(config,data,geom){
                 d.value + " organisations"].join('\n')})
             .xAxis().ticks(5);
 
-    dc.dataCount('#count-info')
-            .dimension(cf)
-            .group(all);
+   /* dc.dataCount('#count-info')
+           .dimension(cf)
+           .group(all);*/
 
     whereChart.width($('#hxd-3W-where').width()).height(360)
             .dimension(whereDimension)
@@ -85,6 +89,7 @@ function generate3WComponent(config,data,geom){
             .zoom(0)    
             .geojson(geom)
             .colors(['#DDDDDD','#A7C1D3','#71A5CA','#3B88C0', '#056CB6'])
+            .label(function (p) { return p.key; })
             .colorDomain([0,4])
             .colorAccessor(function (d) {
                 var c =0
@@ -115,6 +120,7 @@ function generate3WComponent(config,data,geom){
             });
     dc.renderAll();
     
+    
     var map = whereChart.map();
 
     zoomToGeom(geom);
@@ -126,25 +132,6 @@ function generate3WComponent(config,data,geom){
     }
     
     
-
-   /* var g = d3.selectAll('#hdx-3W-who').select('svg').append('g');
-    
-    g.append('text')
-        .attr('class', 'x-axis-label')
-        .attr('text-anchor', 'middle')
-        .attr('x', $('#hdx-3W-who').width()/2)
-        .attr('y', 400)
-        .text(axisText);
-
-    var g = d3.selectAll('#hdx-3W-what').select('svg').append('g');
-    
-    g.append('text')
-        .attr('class', 'x-axis-label')
-        .attr('text-anchor', 'middle')
-        .attr('x', $('#hdx-3W-what').width()/2)
-        .attr('y', 400)
-        .text(axisText);*/
-
     function zoomToGeom(geom){
         var bounds = d3.geo.bounds(geom);
         map.fitBounds([[bounds[0][1],bounds[0][0]],[bounds[1][1],bounds[1][0]]]);
@@ -159,35 +146,6 @@ function generate3WComponent(config,data,geom){
     }
 }
 
-/*function hxlProxyToJSON(input,headers){
-    var output = [];
-    var keys=[]
-    input.forEach(function(e,i){
-        if(i==0){
-            e.forEach(function(e2,i2){
-                var parts = e2.split('+');
-                var key = parts[0]
-                if(parts.length>1){
-                    var atts = parts.splice(1,parts.length);
-                    atts.sort();
-                    atts.forEach(function(att){
-                        key +='+'+att
-                    });
-                }
-                keys.push(key);
-            });
-        } else {
-            var row = {};
-            e.forEach(function(e2,i2){
-                row[keys[i2]] = e2;
-            });
-            output.push(row);
-        }
-    });
-    return output;
-}*/
-
-//load 3W data
 
 var dataCall = $.ajax({ 
     type: 'GET', 
