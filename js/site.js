@@ -7,8 +7,10 @@ var config = {
     whoFieldName:"orga",
     whatFieldName:"sector",
     whereFieldName:"Pcodes",
-    sum: true,
     sumcount: true,
+    sum: true,
+    nb: true,
+    nbField: "nb",
     sumField:"presence",
     sumcountField:"count",
     geo:"data/lcb.geojson",
@@ -27,7 +29,7 @@ function generate3WComponent(config,data,geom){
     var whoChart = dc.rowChart('#hdx-3W-who');
     var whatChart = dc.rowChart('#hdx-3W-what');
     var whereChart = dc.leafletChoroplethChart('#hdx-3W-where');
-    var sumChart = dc.numberDisplay('#count-info')
+   // var sumChart = dc.numberDisplay('#count-info')
 
     var cf = crossfilter(data);
 
@@ -36,17 +38,37 @@ function generate3WComponent(config,data,geom){
     var whereDimension = cf.dimension(function(d){ return d[config.whereFieldName]; });
     var whoGroup = whoDimension.group().reduceSum(function(d){ return d[config.sumField]; });
     var whatGroup = whatDimension.group().reduceSum(function(d){ return d[config.sumcountField]; });
-    var whereGroup = whereDimension.group().reduceSum(function(d){ return d[config.sumField]; });        
+    var whereGroup = whereDimension.group().reduceSum(function(d){ return d[config.sumField]; });  
+    var whoGroup1 = whoDimension.group().reduceCount();     
     
     var all = cf.groupAll();
 
     var sumdim =  cf.dimension(function(d){ return d[config.sumField]; });
     var sumgroup = sumdim.group().reduceSum(function(d){return d[config.sumField]; });
-   
-    sumChart
-       .valueAccessor(function(d){return +d.value})
-       .group(sumgroup);   
-    
+
+    var nbdim = cf.dimension(function(d){return d[config.nbField];});
+    var nbgroup = nbdim.group().reduceSum(function(d){return d[config.nbField];});
+
+     /*sumChart
+       .valueAccessor(function(d){return d.value})
+       .group(nbgroup);*/
+/*sumChart.on("renderlet", function(chart){
+    // mix of dc API and d3 manipulation
+    chart.select('g.y').style('display', 'none');
+    // its a closure so you can also access other chart variable available in the closure scope
+    moveChart.filter(chart.filter());
+});*/
+       
+/*
+  function myFunction() {
+     sumChart
+       .valueAccessor(function(d){return d.value})
+       .group(nbgroup);
+    document.getElementById("count-info").innerHTML = "click";
+    return sumChart;
+    alert("organisations");
+}*/
+        
 
     whoChart.width($('#hxd-3W-who').width()).height(400)
             .dimension(whoDimension)
@@ -140,7 +162,7 @@ function generate3WComponent(config,data,geom){
     function genLookup(geojson,config){
         var lookup = {};
         geojson.features.forEach(function(e){
-            lookup[e.properties[config.joinAttribute]] = String(e.properties[config.nameAttribute]);
+            lookup[e.properties[config.joinAttribute]] = String(e.properties[config.nameAttribute]) + nbgroup;
         });
         return lookup;
     }
