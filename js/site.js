@@ -37,8 +37,8 @@ function generate3WComponent(config,data,geom){
     var whatDimension = cf.dimension(function(d){ return d[config.whatFieldName]; });
     var whereDimension = cf.dimension(function(d){ return d[config.whereFieldName]; });
     var whoGroup = whoDimension.group().reduceSum(function(d){ return d[config.sumField]; });
-    var whatGroup = whatDimension.group().reduceSum(function(d){ return d[config.sumcountField]; });
-    var whereGroup = whereDimension.group().reduceSum(function(d){ return d[config.sumField]; });  
+    var whatGroup = whatDimension.group();
+    var whereGroup = whereDimension.group();  
     var whoGroup1 = whoDimension.group().reduceCount();     
     
     var all = cf.groupAll();
