@@ -29,8 +29,6 @@ function generate3WComponent(config,data,geom){
     var whoChart = dc.rowChart('#hdx-3W-who');
     var whatChart = dc.rowChart('#hdx-3W-what');
     var whereChart = dc.leafletChoroplethChart('#hdx-3W-where');
-   // var sumChart = dc.numberDisplay('#count-info')
-
     var cf = crossfilter(data);
 
     var whoDimension = cf.dimension(function(d){ return d[config.whoFieldName]; });
@@ -49,27 +47,6 @@ function generate3WComponent(config,data,geom){
     var nbdim = cf.dimension(function(d){return d[config.nbField];});
     var nbgroup = nbdim.group().reduceSum(function(d){return d[config.nbField];});
 
-     /*sumChart
-       .valueAccessor(function(d){return d.value})
-       .group(nbgroup);*/
-/*sumChart.on("renderlet", function(chart){
-    // mix of dc API and d3 manipulation
-    chart.select('g.y').style('display', 'none');
-    // its a closure so you can also access other chart variable available in the closure scope
-    moveChart.filter(chart.filter());
-});*/
-       
-/*
-  function myFunction() {
-     sumChart
-       .valueAccessor(function(d){return d.value})
-       .group(nbgroup);
-    document.getElementById("count-info").innerHTML = "click";
-    return sumChart;
-    alert("organisations");
-}*/
-        
-
     whoChart.width($('#hxd-3W-who').width()).height(400)
             .dimension(whoDimension)
             .group(whoGroup)
@@ -81,7 +58,7 @@ function generate3WComponent(config,data,geom){
             .colors([config.color])
             .colorAccessor(function(d, i){return 0;})
             .title(function(d){return [ 
-                d.value + " areas"].join('\n')})
+                "present in " + d.value + " regions"].join('\n')})
             .xAxis().ticks(5);
 
     whatChart.width($('#hxd-3W-what').width()).height(400)
@@ -100,10 +77,7 @@ function generate3WComponent(config,data,geom){
                 d.value + " organisations"].join('\n')})
             .xAxis().ticks(5);
 
-   /* dc.dataCount('#count-info')
-           .dimension(cf)
-           .group(all);*/
-
+  
     whereChart.width($('#hxd-3W-where').width()).height(360)
             .dimension(whereDimension)
             .group(whereGroup)
@@ -111,6 +85,7 @@ function generate3WComponent(config,data,geom){
             .zoom(0)    
             .geojson(geom)
             .colors(['#DDDDDD','#A7C1D3','#71A5CA','#3B88C0', '#056CB6'])
+            .renderTitle(true)
             .label(function (p) { return p.key; })
             .colorDomain([0,4])
             .colorAccessor(function (d) {
@@ -139,11 +114,13 @@ function generate3WComponent(config,data,geom){
                 'opacity':0.8,
                 'fillOpacity': 0.1,
                 'weight': 1
-            });
+            })
+
     dc.renderAll();
     
     
     var map = whereChart.map();
+
 
     zoomToGeom(geom);
 
@@ -163,6 +140,7 @@ function generate3WComponent(config,data,geom){
         var lookup = {};
         geojson.features.forEach(function(e){
             lookup[e.properties[config.joinAttribute]] = String(e.properties[config.nameAttribute]);
+            lookup[e.properties[config.joinAttribute]] = e.properties[config.nameAttribute];
         });
         return lookup;
     }
@@ -175,7 +153,6 @@ var dataCall = $.ajax({
     dataType: 'json',
 });
 
-//load geometry
 
 var geomCall = $.ajax({ 
     type: 'GET', 
