@@ -71,23 +71,25 @@ function generate3WComponent(config, data, geom) {
             return d.whoGroup;
         })
         .columns([
-                function (d) {
+                    function (d) {
                 return d.Country;
-            },
-                function (d) {
-                return d.Admin1;
-            },
-                    function (d) {
-                return d.sector;
-            },
-                    function (d) {
-                return d.orga;
-            }
-                ])
-        .sortBy(function (d) {
-            return d[config.whoFieldName];
-        });
+                },
 
+                    function (d) {
+                return d.Admin1;
+                },
+                        function (d) {
+                return d.sector;
+                },
+                        function (d) {
+                return d.orga;
+                }
+                    ])
+        .sortBy(function (d) {
+            return [d.Country, d.Admin1, d.sector];
+            // return d[config.whoFieldName];
+        });
+    //datatabGraphe.removeLabelClass();
     //fin datatable
     //datatable1 testing
 
@@ -102,28 +104,28 @@ function generate3WComponent(config, data, geom) {
             d.cluster;
         })
         .columns([
-               function (d) {
-                return d.cluster;
-            },
                 function (d) {
-                return d.Adam;
-            },
+                return d.cluster;
+                },
                     function (d) {
+                return d.Adamawa;
+                },
+                        function (d) {
                 return d.Diffa;
-            },
-                    function (d) {
+                },
+                        function (d) {
                 return d.Borno;
-            },
-                    function (d) {
+                },
+                        function (d) {
                 return d.Yobe;
-            },
-                    function (d) {
+                },
+                        function (d) {
                 return d.Lac;
-            },
-                    function (d) {
+                },
+                        function (d) {
                 return d["Far-North"];
-            }
-                ])
+                }
+                    ])
         .sortBy(function (d) {
             return d.cluster;
         });
@@ -213,9 +215,7 @@ function generate3WComponent(config, data, geom) {
 
     dc.renderAll();
 
-
     var map = whereChart.map();
-
 
     zoomToGeom(geom);
 

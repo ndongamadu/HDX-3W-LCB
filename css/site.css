@@ -52,9 +52,23 @@
 #datatab1 {
     margin-left: 30px;
     padding-right: 10px;
+    border: 1px;
 }
 
-#datatab {
-    margin-left: 10px;
+
+/*
+#datatab1 tbody group label {
+    margin-left: 30px;
     padding-right: 10px;
+    border: 1px;
+}
+*/
+
+#datatab {
+    padding-right: 15px;
+    margin-right: 10px;
+}
+
+.dc-chart tbody tr.dc-table-group {
+    color: transparent;
 }
